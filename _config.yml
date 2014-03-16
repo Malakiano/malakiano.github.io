@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /malakiano
+exclude: ['README.md']
